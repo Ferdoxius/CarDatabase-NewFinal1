@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gamin\\Desktop\\CarDatabase-main\\CarDatabase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E31DA4B8-ADAC-4A3A-8C90-252A62DCB5AB}|CarDatabase\\CarDatabase.csproj|c:\\users\\gamin\\desktop\\cardatabase-main\\cardatabase\\cardatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E31DA4B8-ADAC-4A3A-8C90-252A62DCB5AB}|CarDatabase\\CarDatabase.csproj|solutionrelative:cardatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E31DA4B8-ADAC-4A3A-8C90-252A62DCB5AB}|CarDatabase\\CarDatabase.csproj|c:\\users\\gamin\\desktop\\cardatabase-main\\cardatabase\\cardatabase\\kafkaconsumercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E31DA4B8-ADAC-4A3A-8C90-252A62DCB5AB}|CarDatabase\\CarDatabase.csproj|solutionrelative:cardatabase\\kafkaconsumercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1976D449-8DCD-4E89-9DE1-E8D7835A45A4}|CarDatabase.test\\CarDatabase.test.csproj|c:\\users\\gamin\\desktop\\cardatabase-main\\cardatabase\\cardatabase.test\\carservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1976D449-8DCD-4E89-9DE1-E8D7835A45A4}|CarDatabase.test\\CarDatabase.test.csproj|solutionrelative:cardatabase.test\\carservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C7E76F-4E43-4F4D-884A-6E0CE8E01F79}|CarDatabase.Models\\CarDatabase.Models.csproj|c:\\users\\gamin\\desktop\\cardatabase-main\\cardatabase\\cardatabase.models\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C7E76F-4E43-4F4D-884A-6E0CE8E01F79}|CarDatabase.Models\\CarDatabase.Models.csproj|solutionrelative:cardatabase.models\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C7E76F-4E43-4F4D-884A-6E0CE8E01F79}|CarDatabase.Models\\CarDatabase.Models.csproj|c:\\users\\gamin\\desktop\\cardatabase-main\\cardatabase\\cardatabase.models\\mongodbsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C7E76F-4E43-4F4D-884A-6E0CE8E01F79}|CarDatabase.Models\\CarDatabase.Models.csproj|solutionrelative:cardatabase.models\\mongodbsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B469D209-ECDC-4F62-BEE9-8B3BC104233B}|CarDatabase.DL\\CarDatabase.DL.csproj|c:\\users\\gamin\\desktop\\cardatabase-main\\cardatabase\\cardatabase.dl\\manufacturerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B469D209-ECDC-4F62-BEE9-8B3BC104233B}|CarDatabase.DL\\CarDatabase.DL.csproj|solutionrelative:cardatabase.dl\\manufacturerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD5E1FF-A3BF-48A4-80D1-D4311F325F88}|CarDatabase.BL\\CarDatabase.BL.csproj|c:\\users\\gamin\\desktop\\cardatabase-main\\cardatabase\\cardatabase.bl\\kafkacarproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD5E1FF-A3BF-48A4-80D1-D4311F325F88}|CarDatabase.BL\\CarDatabase.BL.csproj|solutionrelative:cardatabase.bl\\kafkacarproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD5E1FF-A3BF-48A4-80D1-D4311F325F88}|CarDatabase.BL\\CarDatabase.BL.csproj|c:\\users\\gamin\\desktop\\cardatabase-main\\cardatabase\\cardatabase.bl\\kafkacarconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD5E1FF-A3BF-48A4-80D1-D4311F325F88}|CarDatabase.BL\\CarDatabase.BL.csproj|solutionrelative:cardatabase.bl\\kafkacarconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD5E1FF-A3BF-48A4-80D1-D4311F325F88}|CarDatabase.BL\\CarDatabase.BL.csproj|c:\\users\\gamin\\desktop\\cardatabase-main\\cardatabase\\cardatabase.bl\\carvalidato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD5E1FF-A3BF-48A4-80D1-D4311F325F88}|CarDatabase.BL\\CarDatabase.BL.csproj|solutionrelative:cardatabase.bl\\carvalidato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E31DA4B8-ADAC-4A3A-8C90-252A62DCB5AB}|CarDatabase\\CarDatabase.csproj|c:\\users\\gamin\\desktop\\cardatabase-main\\cardatabase\\cardatabase\\valuescontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E31DA4B8-ADAC-4A3A-8C90-252A62DCB5AB}|CarDatabase\\CarDatabase.csproj|solutionrelative:cardatabase\\valuescontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E31DA4B8-ADAC-4A3A-8C90-252A62DCB5AB}|CarDatabase\\CarDatabase.csproj|c:\\users\\gamin\\desktop\\cardatabase-main\\cardatabase\\cardatabase\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E31DA4B8-ADAC-4A3A-8C90-252A62DCB5AB}|CarDatabase\\CarDatabase.csproj|solutionrelative:cardatabase\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E31DA4B8-ADAC-4A3A-8C90-252A62DCB5AB}|CarDatabase\\CarDatabase.csproj|c:\\users\\gamin\\desktop\\cardatabase-main\\cardatabase\\cardatabase\\kafkaproducercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E31DA4B8-ADAC-4A3A-8C90-252A62DCB5AB}|CarDatabase\\CarDatabase.csproj|solutionrelative:cardatabase\\kafkaproducercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E31DA4B8-ADAC-4A3A-8C90-252A62DCB5AB}|CarDatabase\\CarDatabase.csproj|c:\\users\\gamin\\desktop\\cardatabase-main\\cardatabase\\cardatabase\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E31DA4B8-ADAC-4A3A-8C90-252A62DCB5AB}|CarDatabase\\CarDatabase.csproj|solutionrelative:cardatabase\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD5E1FF-A3BF-48A4-80D1-D4311F325F88}|CarDatabase.BL\\CarDatabase.BL.csproj|c:\\users\\gamin\\desktop\\cardatabase-main\\cardatabase\\cardatabase.bl\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD5E1FF-A3BF-48A4-80D1-D4311F325F88}|CarDatabase.BL\\CarDatabase.BL.csproj|solutionrelative:cardatabase.bl\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E31DA4B8-ADAC-4A3A-8C90-252A62DCB5AB}|CarDatabase\\CarDatabase.csproj|c:\\users\\gamin\\desktop\\cardatabase-main\\cardatabase\\cardatabase\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E31DA4B8-ADAC-4A3A-8C90-252A62DCB5AB}|CarDatabase\\CarDatabase.csproj|solutionrelative:cardatabase\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E31DA4B8-ADAC-4A3A-8C90-252A62DCB5AB}|CarDatabase\\CarDatabase.csproj|c:\\users\\gamin\\desktop\\cardatabase-main\\cardatabase\\cardatabase\\cardatabase.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E31DA4B8-ADAC-4A3A-8C90-252A62DCB5AB}|CarDatabase\\CarDatabase.csproj|solutionrelative:cardatabase\\cardatabase.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E31DA4B8-ADAC-4A3A-8C90-252A62DCB5AB}|CarDatabase\\CarDatabase.csproj|c:\\users\\gamin\\desktop\\cardatabase-main\\cardatabase\\cardatabase\\cardatabase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E31DA4B8-ADAC-4A3A-8C90-252A62DCB5AB}|CarDatabase\\CarDatabase.csproj|solutionrelative:cardatabase\\cardatabase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\gamin\\Desktop\\CarDatabase-main\\CarDatabase\\CarDatabase.test\\CarServiceTests.cs",
+              "RelativeDocumentMoniker": "CarDatabase.test\\CarServiceTests.cs",
+              "ToolTip": "C:\\Users\\gamin\\Desktop\\CarDatabase-main\\CarDatabase\\CarDatabase.test\\CarServiceTests.cs",
+              "RelativeToolTip": "CarDatabase.test\\CarServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:18:23.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Manufacturer.cs",
+              "DocumentMoniker": "C:\\Users\\gamin\\Desktop\\CarDatabase-main\\CarDatabase\\CarDatabase.Models\\Manufacturer.cs",
+              "RelativeDocumentMoniker": "CarDatabase.Models\\Manufacturer.cs",
+              "ToolTip": "C:\\Users\\gamin\\Desktop\\CarDatabase-main\\CarDatabase\\CarDatabase.Models\\Manufacturer.cs",
+              "RelativeToolTip": "CarDatabase.Models\\Manufacturer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:18:21.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MongoDbSetting.cs",
+              "DocumentMoniker": "C:\\Users\\gamin\\Desktop\\CarDatabase-main\\CarDatabase\\CarDatabase.Models\\MongoDbSetting.cs",
+              "RelativeDocumentMoniker": "CarDatabase.Models\\MongoDbSetting.cs",
+              "ToolTip": "C:\\Users\\gamin\\Desktop\\CarDatabase-main\\CarDatabase\\CarDatabase.Models\\MongoDbSetting.cs",
+              "RelativeToolTip": "CarDatabase.Models\\MongoDbSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:18:20.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManufacturerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gamin\\Desktop\\CarDatabase-main\\CarDatabase\\CarDatabase.DL\\ManufacturerRepository.cs",
+              "RelativeDocumentMoniker": "CarDatabase.DL\\ManufacturerRepository.cs",
+              "ToolTip": "C:\\Users\\gamin\\Desktop\\CarDatabase-main\\CarDatabase\\CarDatabase.DL\\ManufacturerRepository.cs",
+              "RelativeToolTip": "CarDatabase.DL\\ManufacturerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:18:19.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KafkaConsumerController.cs",
+              "DocumentMoniker": "C:\\Users\\gamin\\Desktop\\CarDatabase-main\\CarDatabase\\CarDatabase\\KafkaConsumerController.cs",
+              "RelativeDocumentMoniker": "CarDatabase\\KafkaConsumerController.cs",
+              "ToolTip": "C:\\Users\\gamin\\Desktop\\CarDatabase-main\\CarDatabase\\CarDatabase\\KafkaConsumerController.cs",
+              "RelativeToolTip": "CarDatabase\\KafkaConsumerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:15:38.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KafkaProducerController.cs",
+              "DocumentMoniker": "C:\\Users\\gamin\\Desktop\\CarDatabase-main\\CarDatabase\\CarDatabase\\KafkaProducerController.cs",
+              "RelativeDocumentMoniker": "CarDatabase\\KafkaProducerController.cs",
+              "ToolTip": "C:\\Users\\gamin\\Desktop\\CarDatabase-main\\CarDatabase\\CarDatabase\\KafkaProducerController.cs",
+              "RelativeToolTip": "CarDatabase\\KafkaProducerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:43:04.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gamin\\Desktop\\CarDatabase-main\\CarDatabase\\CarDatabase\\Program.cs",
+              "RelativeDocumentMoniker": "CarDatabase\\Program.cs",
+              "ToolTip": "C:\\Users\\gamin\\Desktop\\CarDatabase-main\\CarDatabase\\CarDatabase\\Program.cs",
+              "RelativeToolTip": "CarDatabase\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:45:28.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "C:\\Users\\gamin\\Desktop\\CarDatabase-main\\CarDatabase\\CarDatabase.BL\\CarService.cs",
+              "RelativeDocumentMoniker": "CarDatabase.BL\\CarService.cs",
+              "ToolTip": "C:\\Users\\gamin\\Desktop\\CarDatabase-main\\CarDatabase\\CarDatabase.BL\\CarService.cs",
+              "RelativeToolTip": "CarDatabase.BL\\CarService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:25:13.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\gamin\\Desktop\\CarDatabase-main\\CarDatabase\\CarDatabase\\ValuesController.cs",
+              "RelativeDocumentMoniker": "CarDatabase\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\gamin\\Desktop\\CarDatabase-main\\CarDatabase\\CarDatabase\\ValuesController.cs",
+              "RelativeToolTip": "CarDatabase\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:36:47.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ValuesController1.cs",
+              "DocumentMoniker": "C:\\Users\\gamin\\Desktop\\CarDatabase-main\\CarDatabase\\CarDatabase\\ValuesController1.cs",
+              "RelativeDocumentMoniker": "CarDatabase\\ValuesController1.cs",
+              "ToolTip": "C:\\Users\\gamin\\Desktop\\CarDatabase-main\\CarDatabase\\CarDatabase\\ValuesController1.cs",
+              "RelativeToolTip": "CarDatabase\\ValuesController1.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:24:28.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarValidato.cs",
+              "DocumentMoniker": "C:\\Users\\gamin\\Desktop\\CarDatabase-main\\CarDatabase\\CarDatabase.BL\\CarValidato.cs",
+              "RelativeDocumentMoniker": "CarDatabase.BL\\CarValidato.cs",
+              "ToolTip": "C:\\Users\\gamin\\Desktop\\CarDatabase-main\\CarDatabase\\CarDatabase.BL\\CarValidato.cs",
+              "RelativeToolTip": "CarDatabase.BL\\CarValidato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:25:12.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KafkaCarConsumerService.cs",
+              "DocumentMoniker": "C:\\Users\\gamin\\Desktop\\CarDatabase-main\\CarDatabase\\CarDatabase.BL\\KafkaCarConsumerService.cs",
+              "RelativeDocumentMoniker": "CarDatabase.BL\\KafkaCarConsumerService.cs",
+              "ToolTip": "C:\\Users\\gamin\\Desktop\\CarDatabase-main\\CarDatabase\\CarDatabase.BL\\KafkaCarConsumerService.cs",
+              "RelativeToolTip": "CarDatabase.BL\\KafkaCarConsumerService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T12:11:22.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KafkaCarProducerService.cs",
+              "DocumentMoniker": "C:\\Users\\gamin\\Desktop\\CarDatabase-main\\CarDatabase\\CarDatabase.BL\\KafkaCarProducerService.cs",
+              "RelativeDocumentMoniker": "CarDatabase.BL\\KafkaCarProducerService.cs",
+              "ToolTip": "C:\\Users\\gamin\\Desktop\\CarDatabase-main\\CarDatabase\\CarDatabase.BL\\KafkaCarProducerService.cs",
+              "RelativeToolTip": "CarDatabase.BL\\KafkaCarProducerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:53:29.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gamin\\Desktop\\CarDatabase-main\\CarDatabase\\CarDatabase\\appsettings.json",
+              "RelativeDocumentMoniker": "CarDatabase\\appsettings.json",
+              "ToolTip": "C:\\Users\\gamin\\Desktop\\CarDatabase-main\\CarDatabase\\CarDatabase\\appsettings.json",
+              "RelativeToolTip": "CarDatabase\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-10T10:49:19.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\gamin\\Desktop\\CarDatabase-main\\CarDatabase\\CarDatabase\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CarDatabase\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\gamin\\Desktop\\CarDatabase-main\\CarDatabase\\CarDatabase\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CarDatabase\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-10T09:49:40.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CarDatabase",
+              "DocumentMoniker": "C:\\Users\\gamin\\Desktop\\CarDatabase-main\\CarDatabase\\CarDatabase\\CarDatabase.csproj",
+              "RelativeDocumentMoniker": "CarDatabase\\CarDatabase.csproj",
+              "ToolTip": "C:\\Users\\gamin\\Desktop\\CarDatabase-main\\CarDatabase\\CarDatabase\\CarDatabase.csproj",
+              "RelativeToolTip": "CarDatabase\\CarDatabase.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-10T09:49:38.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CarDatabase.csproj",
+              "DocumentMoniker": "C:\\Users\\gamin\\Desktop\\CarDatabase-main\\CarDatabase\\CarDatabase\\CarDatabase.csproj",
+              "RelativeDocumentMoniker": "CarDatabase\\CarDatabase.csproj",
+              "ToolTip": "C:\\Users\\gamin\\Desktop\\CarDatabase-main\\CarDatabase\\CarDatabase\\CarDatabase.csproj",
+              "RelativeToolTip": "CarDatabase\\CarDatabase.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-01T19:16:54.669Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

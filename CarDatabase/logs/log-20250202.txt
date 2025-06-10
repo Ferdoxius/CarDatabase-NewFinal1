@@ -1,0 +1,478 @@
+2025-02-02 00:05:39.090 +02:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-02 00:05:39.151 +02:00 [INF] Now listening on: https://localhost:7070
+2025-02-02 00:05:39.153 +02:00 [INF] Now listening on: http://localhost:5265
+2025-02-02 00:05:39.216 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-02 00:05:39.217 +02:00 [INF] Hosting environment: Development
+2025-02-02 00:05:39.218 +02:00 [INF] Content root path: C:\Users\gamin\source\repos\CarDatabase\CarDatabase
+2025-02-02 00:05:43.795 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger - null null
+2025-02-02 00:05:43.887 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger - 301 0 null 97.1413ms
+2025-02-02 00:05:43.892 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/index.html - null null
+2025-02-02 00:05:43.942 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/index.html - 200 null text/html;charset=utf-8 49.6115ms
+2025-02-02 00:05:43.959 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/swagger-ui.css - null null
+2025-02-02 00:05:43.959 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/swagger-ui-standalone-preset.js - null null
+2025-02-02 00:05:43.959 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_vs/browserLink - null null
+2025-02-02 00:05:43.959 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/swagger-ui-bundle.js - null null
+2025-02-02 00:05:43.959 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-02 00:05:43.991 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - 200 13774 application/javascript; charset=utf-8 31.6972ms
+2025-02-02 00:05:44.013 +02:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-02-02 00:05:44.013 +02:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-02-02 00:05:44.014 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/swagger-ui.css - 200 152034 text/css 55.7905ms
+2025-02-02 00:05:44.015 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/swagger-ui-standalone-preset.js - 200 230280 text/javascript 56.7734ms
+2025-02-02 00:05:44.026 +02:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-02-02 00:05:44.027 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/swagger-ui-bundle.js - 200 1456926 text/javascript 68.267ms
+2025-02-02 00:05:44.181 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_vs/browserLink - 200 null text/javascript; charset=UTF-8 222.1778ms
+2025-02-02 00:05:44.186 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/favicon-16x16.png - null null
+2025-02-02 00:05:44.187 +02:00 [INF] Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+2025-02-02 00:05:44.188 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/favicon-16x16.png - 200 665 image/png 2.5895ms
+2025-02-02 00:05:44.215 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - null null
+2025-02-02 00:05:44.221 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 6.8277ms
+2025-02-02 00:06:53.585 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/index.html - null null
+2025-02-02 00:06:53.591 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/index.html - 200 null text/html;charset=utf-8 5.6112ms
+2025-02-02 00:06:53.605 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-02 00:06:53.606 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_vs/browserLink - null null
+2025-02-02 00:06:53.608 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - 200 13774 application/javascript; charset=utf-8 2.8816ms
+2025-02-02 00:06:53.619 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_vs/browserLink - 200 null text/javascript; charset=UTF-8 12.9036ms
+2025-02-02 00:06:53.707 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/favicon-16x16.png - null null
+2025-02-02 00:06:53.710 +02:00 [INF] Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+2025-02-02 00:06:53.711 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/favicon-16x16.png - 499 665 image/png 4.6106ms
+2025-02-02 00:06:53.733 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - null null
+2025-02-02 00:06:53.738 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 4.9406ms
+2025-02-02 00:09:04.699 +02:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-02 00:09:04.759 +02:00 [INF] Now listening on: https://localhost:7070
+2025-02-02 00:09:04.760 +02:00 [INF] Now listening on: http://localhost:5265
+2025-02-02 00:09:04.827 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-02 00:09:04.828 +02:00 [INF] Hosting environment: Development
+2025-02-02 00:09:04.828 +02:00 [INF] Content root path: C:\Users\gamin\source\repos\CarDatabase\CarDatabase
+2025-02-02 00:09:05.261 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/index.html - null null
+2025-02-02 00:09:05.371 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/index.html - 200 null text/html;charset=utf-8 114.9223ms
+2025-02-02 00:09:05.387 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/swagger-ui.css - null null
+2025-02-02 00:09:05.387 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-02 00:09:05.388 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_vs/browserLink - null null
+2025-02-02 00:09:05.394 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - 200 13774 application/javascript; charset=utf-8 6.4291ms
+2025-02-02 00:09:05.399 +02:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-02-02 00:09:05.400 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/swagger-ui.css - 499 152034 text/css 13.1971ms
+2025-02-02 00:09:05.420 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_vs/browserLink - 200 null text/javascript; charset=UTF-8 32.1353ms
+2025-02-02 00:09:05.494 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/favicon-16x16.png - null null
+2025-02-02 00:09:05.498 +02:00 [INF] Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+2025-02-02 00:09:05.498 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/favicon-16x16.png - 499 665 image/png 4.0737ms
+2025-02-02 00:09:05.522 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - null null
+2025-02-02 00:09:05.529 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 7.1624ms
+2025-02-02 00:09:15.727 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/health - null null
+2025-02-02 00:09:15.734 +02:00 [INF] Executing endpoint 'Health checks'
+2025-02-02 00:09:16.058 +02:00 [INF] Executed endpoint 'Health checks'
+2025-02-02 00:09:16.060 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/health - 200 null text/plain 332.8607ms
+2025-02-02 00:09:16.087 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/favicon.ico - null null
+2025-02-02 00:09:16.089 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/favicon.ico - 404 0 null 2.199ms
+2025-02-02 00:09:16.091 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7070/favicon.ico, Response status code: 404
+2025-02-02 00:09:17.624 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/health - null null
+2025-02-02 00:09:17.627 +02:00 [INF] Executing endpoint 'Health checks'
+2025-02-02 00:09:17.672 +02:00 [INF] Executed endpoint 'Health checks'
+2025-02-02 00:09:17.673 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/health - 200 null text/plain 48.826ms
+2025-02-02 00:10:07.049 +02:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-02 00:10:07.149 +02:00 [INF] Now listening on: https://localhost:7070
+2025-02-02 00:10:07.151 +02:00 [INF] Now listening on: http://localhost:5265
+2025-02-02 00:10:07.226 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-02 00:10:07.226 +02:00 [INF] Hosting environment: Development
+2025-02-02 00:10:07.227 +02:00 [INF] Content root path: C:\Users\gamin\source\repos\CarDatabase\CarDatabase
+2025-02-02 00:10:08.067 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/index.html - null null
+2025-02-02 00:10:08.193 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/index.html - 200 null text/html;charset=utf-8 130.1628ms
+2025-02-02 00:10:08.214 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-02 00:10:08.214 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_vs/browserLink - null null
+2025-02-02 00:10:08.221 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - 200 13774 application/javascript; charset=utf-8 7.1892ms
+2025-02-02 00:10:08.246 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_vs/browserLink - 200 null text/javascript; charset=UTF-8 31.5723ms
+2025-02-02 00:10:08.334 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/favicon-16x16.png - null null
+2025-02-02 00:10:08.343 +02:00 [INF] Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+2025-02-02 00:10:08.343 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/favicon-16x16.png - 499 665 image/png 9.1551ms
+2025-02-02 00:10:08.361 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - null null
+2025-02-02 00:10:08.368 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 7.3493ms
+2025-02-02 00:16:12.794 +02:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-02 00:16:12.887 +02:00 [INF] Now listening on: https://localhost:7070
+2025-02-02 00:16:12.888 +02:00 [INF] Now listening on: http://localhost:5265
+2025-02-02 00:16:12.965 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-02 00:16:12.966 +02:00 [INF] Hosting environment: Development
+2025-02-02 00:16:12.966 +02:00 [INF] Content root path: C:\Users\gamin\source\repos\CarDatabase\CarDatabase
+2025-02-02 00:16:14.443 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/index.html - null null
+2025-02-02 00:16:14.552 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/index.html - 200 null text/html;charset=utf-8 114.1951ms
+2025-02-02 00:16:14.568 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_vs/browserLink - null null
+2025-02-02 00:16:14.568 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/swagger-ui.css - null null
+2025-02-02 00:16:14.568 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-02 00:16:14.589 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - 200 13774 application/javascript; charset=utf-8 20.8776ms
+2025-02-02 00:16:14.593 +02:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-02-02 00:16:14.593 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/swagger-ui.css - 499 152034 text/css 25.0816ms
+2025-02-02 00:16:14.605 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_vs/browserLink - 200 null text/javascript; charset=UTF-8 36.4556ms
+2025-02-02 00:16:14.629 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/favicon-16x16.png - null null
+2025-02-02 00:16:14.632 +02:00 [INF] Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+2025-02-02 00:16:14.633 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/favicon-16x16.png - 499 665 image/png 3.8728ms
+2025-02-02 00:16:14.657 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - null null
+2025-02-02 00:16:14.664 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 7.1593ms
+2025-02-02 00:17:43.224 +02:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-02 00:17:43.318 +02:00 [INF] Now listening on: https://localhost:7070
+2025-02-02 00:17:43.320 +02:00 [INF] Now listening on: http://localhost:5265
+2025-02-02 00:17:43.400 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-02 00:17:43.400 +02:00 [INF] Hosting environment: Development
+2025-02-02 00:17:43.401 +02:00 [INF] Content root path: C:\Users\gamin\source\repos\CarDatabase\CarDatabase
+2025-02-02 00:17:44.414 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/index.html - null null
+2025-02-02 00:17:44.530 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/index.html - 200 null text/html;charset=utf-8 120.9281ms
+2025-02-02 00:17:44.547 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/swagger-ui.css - null null
+2025-02-02 00:17:44.547 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-02 00:17:44.550 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_vs/browserLink - null null
+2025-02-02 00:17:44.559 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - 200 13774 application/javascript; charset=utf-8 12.3911ms
+2025-02-02 00:17:44.568 +02:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-02-02 00:17:44.569 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/swagger-ui.css - 499 152034 text/css 21.9218ms
+2025-02-02 00:17:44.587 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_vs/browserLink - 200 null text/javascript; charset=UTF-8 37.2746ms
+2025-02-02 00:17:44.611 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/favicon-16x16.png - null null
+2025-02-02 00:17:44.615 +02:00 [INF] Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+2025-02-02 00:17:44.616 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/favicon-16x16.png - 499 665 image/png 4.582ms
+2025-02-02 00:17:44.641 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - null null
+2025-02-02 00:17:44.647 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 6.3204ms
+2025-02-02 00:18:02.361 +02:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-02 00:18:02.414 +02:00 [INF] Now listening on: https://localhost:7070
+2025-02-02 00:18:02.417 +02:00 [INF] Now listening on: http://localhost:5265
+2025-02-02 00:18:02.480 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-02 00:18:02.481 +02:00 [INF] Hosting environment: Development
+2025-02-02 00:18:02.481 +02:00 [INF] Content root path: C:\Users\gamin\source\repos\CarDatabase\CarDatabase
+2025-02-02 00:18:03.231 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/index.html - null null
+2025-02-02 00:18:03.342 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/index.html - 200 null text/html;charset=utf-8 116.7538ms
+2025-02-02 00:18:03.367 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-02 00:18:03.367 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_vs/browserLink - null null
+2025-02-02 00:18:03.367 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/swagger-ui.css - null null
+2025-02-02 00:18:03.373 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - 200 13774 application/javascript; charset=utf-8 5.8618ms
+2025-02-02 00:18:03.384 +02:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-02-02 00:18:03.385 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/swagger-ui.css - 499 152034 text/css 18.3126ms
+2025-02-02 00:18:03.396 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_vs/browserLink - 200 null text/javascript; charset=UTF-8 29.6195ms
+2025-02-02 00:18:03.424 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/favicon-16x16.png - null null
+2025-02-02 00:18:03.428 +02:00 [INF] Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+2025-02-02 00:18:03.429 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/favicon-16x16.png - 499 665 image/png 4.842ms
+2025-02-02 00:18:03.454 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - null null
+2025-02-02 00:18:03.461 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 6.629ms
+2025-02-02 00:18:12.091 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/health - null null
+2025-02-02 00:18:12.098 +02:00 [INF] Executing endpoint 'Health checks'
+2025-02-02 00:18:12.417 +02:00 [INF] Executed endpoint 'Health checks'
+2025-02-02 00:18:12.419 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/health - 200 null text/plain 328.2024ms
+2025-02-02 00:19:36.375 +02:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-02 00:19:36.424 +02:00 [INF] Now listening on: https://localhost:7070
+2025-02-02 00:19:36.426 +02:00 [INF] Now listening on: http://localhost:5265
+2025-02-02 00:19:36.498 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-02 00:19:36.499 +02:00 [INF] Hosting environment: Development
+2025-02-02 00:19:36.499 +02:00 [INF] Content root path: C:\Users\gamin\source\repos\CarDatabase\CarDatabase
+2025-02-02 00:19:37.223 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/index.html - null null
+2025-02-02 00:19:37.345 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/index.html - 200 null text/html;charset=utf-8 126.7333ms
+2025-02-02 00:19:37.365 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-02 00:19:37.366 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/swagger-ui.css - null null
+2025-02-02 00:19:37.368 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_vs/browserLink - null null
+2025-02-02 00:19:37.380 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - 200 13774 application/javascript; charset=utf-8 14.7053ms
+2025-02-02 00:19:37.392 +02:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-02-02 00:19:37.393 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/swagger-ui.css - 499 152034 text/css 27.2846ms
+2025-02-02 00:19:37.411 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_vs/browserLink - 200 null text/javascript; charset=UTF-8 42.8239ms
+2025-02-02 00:19:37.435 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/favicon-16x16.png - null null
+2025-02-02 00:19:37.439 +02:00 [INF] Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+2025-02-02 00:19:37.440 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/favicon-16x16.png - 499 665 image/png 4.7295ms
+2025-02-02 00:19:37.471 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - null null
+2025-02-02 00:19:37.478 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 7.5314ms
+2025-02-02 00:19:41.758 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/api/cars - null null
+2025-02-02 00:19:41.763 +02:00 [INF] Executing endpoint 'CarDatabase.Controllers.CarController.GetAllCars (CarDatabase)'
+2025-02-02 00:19:41.784 +02:00 [INF] Route matched with {action = "GetAllCars", controller = "Car"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllCars() on controller CarDatabase.Controllers.CarController (CarDatabase).
+2025-02-02 00:19:42.136 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CarDatabase.Models.Car, CarDatabase.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-02 00:19:42.143 +02:00 [INF] Executed action CarDatabase.Controllers.CarController.GetAllCars (CarDatabase) in 356.3626ms
+2025-02-02 00:19:42.144 +02:00 [INF] Executed endpoint 'CarDatabase.Controllers.CarController.GetAllCars (CarDatabase)'
+2025-02-02 00:19:42.145 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/api/cars - 200 null application/json; charset=utf-8 386.842ms
+2025-02-02 00:20:15.318 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7070/api/cars - application/json 84
+2025-02-02 00:20:15.320 +02:00 [INF] Executing endpoint 'CarDatabase.Controllers.CarController.CreateCar (CarDatabase)'
+2025-02-02 00:20:15.327 +02:00 [INF] Route matched with {action = "CreateCar", controller = "Car"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateCar(CarDatabase.Models.Car) on controller CarDatabase.Controllers.CarController (CarDatabase).
+2025-02-02 00:20:15.498 +02:00 [INF] Executing CreatedAtActionResult, writing value of type 'CarDatabase.Models.Car'.
+2025-02-02 00:20:15.511 +02:00 [INF] Executed action CarDatabase.Controllers.CarController.CreateCar (CarDatabase) in 182.7914ms
+2025-02-02 00:20:15.512 +02:00 [INF] Executed endpoint 'CarDatabase.Controllers.CarController.CreateCar (CarDatabase)'
+2025-02-02 00:20:15.513 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7070/api/cars - 201 null application/json; charset=utf-8 195.1058ms
+2025-02-02 00:21:28.348 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/api/cars/1 - null null
+2025-02-02 00:21:28.350 +02:00 [INF] Executing endpoint 'CarDatabase.Controllers.CarController.GetCarById (CarDatabase)'
+2025-02-02 00:21:28.354 +02:00 [INF] Route matched with {action = "GetCarById", controller = "Car"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCarById(System.String) on controller CarDatabase.Controllers.CarController (CarDatabase).
+2025-02-02 00:21:28.426 +02:00 [INF] Executing OkObjectResult, writing value of type 'CarDatabase.Models.Car'.
+2025-02-02 00:21:28.427 +02:00 [INF] Executed action CarDatabase.Controllers.CarController.GetCarById (CarDatabase) in 71.6849ms
+2025-02-02 00:21:28.430 +02:00 [INF] Executed endpoint 'CarDatabase.Controllers.CarController.GetCarById (CarDatabase)'
+2025-02-02 00:21:28.432 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/api/cars/1 - 200 null application/json; charset=utf-8 84.272ms
+2025-02-02 00:23:14.038 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7070/api/cars - application/json 62
+2025-02-02 00:23:14.042 +02:00 [INF] Executing endpoint 'CarDatabase.Controllers.CarController.CreateCar (CarDatabase)'
+2025-02-02 00:23:14.043 +02:00 [INF] Route matched with {action = "CreateCar", controller = "Car"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateCar(CarDatabase.Models.Car) on controller CarDatabase.Controllers.CarController (CarDatabase).
+2025-02-02 00:23:14.050 +02:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2025-02-02 00:23:14.063 +02:00 [INF] Executed action CarDatabase.Controllers.CarController.CreateCar (CarDatabase) in 19.4458ms
+2025-02-02 00:23:14.064 +02:00 [INF] Executed endpoint 'CarDatabase.Controllers.CarController.CreateCar (CarDatabase)'
+2025-02-02 00:23:14.065 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7070/api/cars - 400 null application/problem+json; charset=utf-8 27.5218ms
+2025-02-02 00:24:48.260 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7070/api/cars - application/json 80
+2025-02-02 00:24:48.265 +02:00 [INF] Executing endpoint 'CarDatabase.Controllers.CarController.CreateCar (CarDatabase)'
+2025-02-02 00:24:48.266 +02:00 [INF] Route matched with {action = "CreateCar", controller = "Car"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateCar(CarDatabase.Models.Car) on controller CarDatabase.Controllers.CarController (CarDatabase).
+2025-02-02 00:24:48.319 +02:00 [INF] Executing CreatedAtActionResult, writing value of type 'CarDatabase.Models.Car'.
+2025-02-02 00:24:48.320 +02:00 [INF] Executed action CarDatabase.Controllers.CarController.CreateCar (CarDatabase) in 53.5433ms
+2025-02-02 00:24:48.323 +02:00 [INF] Executed endpoint 'CarDatabase.Controllers.CarController.CreateCar (CarDatabase)'
+2025-02-02 00:24:48.325 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7070/api/cars - 201 null application/json; charset=utf-8 64.5097ms
+2025-02-02 00:35:02.735 +02:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-02 00:35:02.784 +02:00 [INF] Now listening on: https://localhost:7070
+2025-02-02 00:35:02.785 +02:00 [INF] Now listening on: http://localhost:5265
+2025-02-02 00:35:02.854 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-02 00:35:02.855 +02:00 [INF] Hosting environment: Development
+2025-02-02 00:35:02.856 +02:00 [INF] Content root path: C:\Users\gamin\source\repos\CarDatabase\CarDatabase
+2025-02-02 00:35:03.963 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/index.html - null null
+2025-02-02 00:35:04.076 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/index.html - 200 null text/html;charset=utf-8 117.4147ms
+2025-02-02 00:35:04.092 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_vs/browserLink - null null
+2025-02-02 00:35:04.092 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/swagger-ui.css - null null
+2025-02-02 00:35:04.092 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-02 00:35:04.107 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - 200 13774 application/javascript; charset=utf-8 15.0204ms
+2025-02-02 00:35:04.110 +02:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-02-02 00:35:04.111 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/swagger-ui.css - 499 152034 text/css 19.7579ms
+2025-02-02 00:35:04.123 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_vs/browserLink - 200 null text/javascript; charset=UTF-8 31.6133ms
+2025-02-02 00:35:04.148 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/favicon-16x16.png - null null
+2025-02-02 00:35:04.152 +02:00 [INF] Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+2025-02-02 00:35:04.152 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/favicon-16x16.png - 499 665 image/png 4.2085ms
+2025-02-02 00:35:04.179 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - null null
+2025-02-02 00:35:04.186 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 7.2793ms
+2025-02-02 00:35:16.547 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/api/cars/brand/VW - null null
+2025-02-02 00:35:16.552 +02:00 [INF] Executing endpoint 'CarDatabase.Controllers.CarController.GetCarsByBrand (CarDatabase)'
+2025-02-02 00:35:16.570 +02:00 [INF] Route matched with {action = "GetCarsByBrand", controller = "Car"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCarsByBrand(System.String) on controller CarDatabase.Controllers.CarController (CarDatabase).
+2025-02-02 00:35:16.945 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CarDatabase.Models.Car, CarDatabase.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-02 00:35:16.955 +02:00 [INF] Executed action CarDatabase.Controllers.CarController.GetCarsByBrand (CarDatabase) in 382.3417ms
+2025-02-02 00:35:16.956 +02:00 [INF] Executed endpoint 'CarDatabase.Controllers.CarController.GetCarsByBrand (CarDatabase)'
+2025-02-02 00:35:16.958 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/api/cars/brand/VW - 200 null application/json; charset=utf-8 410.8654ms
+2025-02-02 00:35:22.901 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/api/cars/brand/toyota - null null
+2025-02-02 00:35:22.904 +02:00 [INF] Executing endpoint 'CarDatabase.Controllers.CarController.GetCarsByBrand (CarDatabase)'
+2025-02-02 00:35:22.905 +02:00 [INF] Route matched with {action = "GetCarsByBrand", controller = "Car"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCarsByBrand(System.String) on controller CarDatabase.Controllers.CarController (CarDatabase).
+2025-02-02 00:35:22.950 +02:00 [INF] Executing NotFoundObjectResult, writing value of type 'System.String'.
+2025-02-02 00:35:22.951 +02:00 [INF] Executed action CarDatabase.Controllers.CarController.GetCarsByBrand (CarDatabase) in 45.078ms
+2025-02-02 00:35:22.952 +02:00 [INF] Executed endpoint 'CarDatabase.Controllers.CarController.GetCarsByBrand (CarDatabase)'
+2025-02-02 00:35:22.952 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/api/cars/brand/toyota - 404 null text/plain; charset=utf-8 51.3882ms
+2025-02-02 00:35:38.216 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/api/cars/brand/Toyota - null null
+2025-02-02 00:35:38.219 +02:00 [INF] Executing endpoint 'CarDatabase.Controllers.CarController.GetCarsByBrand (CarDatabase)'
+2025-02-02 00:35:38.219 +02:00 [INF] Route matched with {action = "GetCarsByBrand", controller = "Car"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCarsByBrand(System.String) on controller CarDatabase.Controllers.CarController (CarDatabase).
+2025-02-02 00:35:38.256 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CarDatabase.Models.Car, CarDatabase.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-02 00:35:38.257 +02:00 [INF] Executed action CarDatabase.Controllers.CarController.GetCarsByBrand (CarDatabase) in 37.1319ms
+2025-02-02 00:35:38.258 +02:00 [INF] Executed endpoint 'CarDatabase.Controllers.CarController.GetCarsByBrand (CarDatabase)'
+2025-02-02 00:35:38.259 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/api/cars/brand/Toyota - 200 null application/json; charset=utf-8 42.1982ms
+2025-02-02 00:36:25.083 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7070/api/cars - application/json 77
+2025-02-02 00:36:25.085 +02:00 [INF] Executing endpoint 'CarDatabase.Controllers.CarController.CreateCar (CarDatabase)'
+2025-02-02 00:36:25.088 +02:00 [INF] Route matched with {action = "CreateCar", controller = "Car"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateCar(CarDatabase.Models.Car) on controller CarDatabase.Controllers.CarController (CarDatabase).
+2025-02-02 00:36:25.216 +02:00 [INF] Executing CreatedAtActionResult, writing value of type 'CarDatabase.Models.Car'.
+2025-02-02 00:36:25.227 +02:00 [INF] Executed action CarDatabase.Controllers.CarController.CreateCar (CarDatabase) in 137.9387ms
+2025-02-02 00:36:25.228 +02:00 [INF] Executed endpoint 'CarDatabase.Controllers.CarController.CreateCar (CarDatabase)'
+2025-02-02 00:36:25.229 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7070/api/cars - 201 null application/json; charset=utf-8 145.9693ms
+2025-02-02 00:37:16.794 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/api/cars/brand/VW - null null
+2025-02-02 00:37:16.796 +02:00 [INF] Executing endpoint 'CarDatabase.Controllers.CarController.GetCarsByBrand (CarDatabase)'
+2025-02-02 00:37:16.797 +02:00 [INF] Route matched with {action = "GetCarsByBrand", controller = "Car"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCarsByBrand(System.String) on controller CarDatabase.Controllers.CarController (CarDatabase).
+2025-02-02 00:37:16.836 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CarDatabase.Models.Car, CarDatabase.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-02 00:37:16.838 +02:00 [INF] Executed action CarDatabase.Controllers.CarController.GetCarsByBrand (CarDatabase) in 39.6039ms
+2025-02-02 00:37:16.841 +02:00 [INF] Executed endpoint 'CarDatabase.Controllers.CarController.GetCarsByBrand (CarDatabase)'
+2025-02-02 00:37:16.842 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/api/cars/brand/VW - 200 null application/json; charset=utf-8 48.538ms
+2025-02-02 00:40:21.927 +02:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-02 00:40:21.978 +02:00 [INF] Now listening on: https://localhost:7070
+2025-02-02 00:40:21.980 +02:00 [INF] Now listening on: http://localhost:5265
+2025-02-02 00:40:22.063 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-02 00:40:22.063 +02:00 [INF] Hosting environment: Development
+2025-02-02 00:40:22.064 +02:00 [INF] Content root path: C:\Users\gamin\source\repos\CarDatabase\CarDatabase
+2025-02-02 00:40:22.626 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/index.html - null null
+2025-02-02 00:40:22.737 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/index.html - 200 null text/html;charset=utf-8 116.1214ms
+2025-02-02 00:40:22.753 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-02 00:40:22.753 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_vs/browserLink - null null
+2025-02-02 00:40:22.753 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/swagger-ui.css - null null
+2025-02-02 00:40:22.764 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - 200 13774 application/javascript; charset=utf-8 10.8859ms
+2025-02-02 00:40:22.774 +02:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-02-02 00:40:22.775 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/swagger-ui.css - 499 152034 text/css 22.2333ms
+2025-02-02 00:40:22.787 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_vs/browserLink - 200 null text/javascript; charset=UTF-8 34.1354ms
+2025-02-02 00:40:22.809 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/favicon-16x16.png - null null
+2025-02-02 00:40:22.813 +02:00 [INF] Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+2025-02-02 00:40:22.814 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/favicon-16x16.png - 499 665 image/png 4.2746ms
+2025-02-02 00:40:22.839 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - null null
+2025-02-02 00:40:22.846 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 7.3502ms
+2025-02-02 00:40:52.696 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7070/api/cars - application/json 73
+2025-02-02 00:40:52.701 +02:00 [INF] Executing endpoint 'CarDatabase.Controllers.CarController.CreateCar (CarDatabase)'
+2025-02-02 00:40:52.720 +02:00 [INF] Route matched with {action = "CreateCar", controller = "Car"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CreateCar(CarDatabase.Models.Car) on controller CarDatabase.Controllers.CarController (CarDatabase).
+2025-02-02 00:40:53.132 +02:00 [INF] Executing CreatedAtActionResult, writing value of type 'CarDatabase.Models.Car'.
+2025-02-02 00:40:53.152 +02:00 [INF] Executed action CarDatabase.Controllers.CarController.CreateCar (CarDatabase) in 429.1988ms
+2025-02-02 00:40:53.154 +02:00 [INF] Executed endpoint 'CarDatabase.Controllers.CarController.CreateCar (CarDatabase)'
+2025-02-02 00:40:53.155 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7070/api/cars - 201 null application/json; charset=utf-8 458.5207ms
+2025-02-02 00:44:08.996 +02:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-02 00:44:09.059 +02:00 [INF] Now listening on: https://localhost:7070
+2025-02-02 00:44:09.090 +02:00 [INF] Now listening on: http://localhost:5265
+2025-02-02 00:44:09.175 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-02 00:44:09.178 +02:00 [INF] Hosting environment: Development
+2025-02-02 00:44:09.179 +02:00 [INF] Content root path: C:\Users\gamin\source\repos\CarDatabase\CarDatabase
+2025-02-02 00:44:09.892 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/index.html - null null
+2025-02-02 00:44:10.008 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/index.html - 200 null text/html;charset=utf-8 121.4933ms
+2025-02-02 00:44:10.028 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-02 00:44:10.032 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_vs/browserLink - null null
+2025-02-02 00:44:10.033 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - 200 13774 application/javascript; charset=utf-8 5.3466ms
+2025-02-02 00:44:10.062 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_vs/browserLink - 200 null text/javascript; charset=UTF-8 30.1972ms
+2025-02-02 00:44:10.092 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/favicon-16x16.png - null null
+2025-02-02 00:44:10.101 +02:00 [INF] Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+2025-02-02 00:44:10.102 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/favicon-16x16.png - 499 665 image/png 10.0151ms
+2025-02-02 00:44:10.131 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - null null
+2025-02-02 00:44:10.142 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 12.1995ms
+2025-02-02 00:44:15.853 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/api/Car/maxprice/2000 - null null
+2025-02-02 00:44:15.859 +02:00 [INF] Executing endpoint 'CarDatabase.API.Controllers.CarController.GetByMaxPrice (CarDatabase)'
+2025-02-02 00:44:15.878 +02:00 [INF] Route matched with {action = "GetByMaxPrice", controller = "Car"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CarDatabase.Models.Car]]] GetByMaxPrice(System.Decimal) on controller CarDatabase.API.Controllers.CarController (CarDatabase).
+2025-02-02 00:44:16.305 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CarDatabase.Models.Car, CarDatabase.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-02 00:44:16.316 +02:00 [INF] Executed action CarDatabase.API.Controllers.CarController.GetByMaxPrice (CarDatabase) in 434.8758ms
+2025-02-02 00:44:16.317 +02:00 [INF] Executed endpoint 'CarDatabase.API.Controllers.CarController.GetByMaxPrice (CarDatabase)'
+2025-02-02 00:44:16.318 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/api/Car/maxprice/2000 - 200 null application/json; charset=utf-8 465.0324ms
+2025-02-02 11:28:11.229 +02:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-02 11:28:11.302 +02:00 [INF] Now listening on: https://localhost:7070
+2025-02-02 11:28:11.306 +02:00 [INF] Now listening on: http://localhost:5265
+2025-02-02 11:28:11.379 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-02 11:28:11.380 +02:00 [INF] Hosting environment: Development
+2025-02-02 11:28:11.381 +02:00 [INF] Content root path: C:\Users\gamin\source\repos\CarDatabase\CarDatabase
+2025-02-02 11:28:12.843 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/index.html - null null
+2025-02-02 11:28:12.972 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/index.html - 200 null text/html;charset=utf-8 133.0369ms
+2025-02-02 11:28:12.991 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-02 11:28:12.996 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - 200 13774 application/javascript; charset=utf-8 4.3756ms
+2025-02-02 11:28:13.000 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_vs/browserLink - null null
+2025-02-02 11:28:13.159 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/favicon-16x16.png - null null
+2025-02-02 11:28:13.168 +02:00 [INF] Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+2025-02-02 11:28:13.169 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/favicon-16x16.png - 499 665 image/png 10.4959ms
+2025-02-02 11:28:13.327 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_vs/browserLink - 200 null text/javascript; charset=UTF-8 327.1371ms
+2025-02-02 11:28:13.355 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - null null
+2025-02-02 11:28:13.367 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 12.0538ms
+2025-02-02 11:28:37.454 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/api/Manufacturer - null null
+2025-02-02 11:28:37.458 +02:00 [INF] Executing endpoint 'CarDatabase.Controllers.ManufacturerController.GetAll (CarDatabase)'
+2025-02-02 11:28:37.473 +02:00 [INF] Route matched with {action = "GetAll", controller = "Manufacturer"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CarDatabase.Models.Manufacturer]]] GetAll() on controller CarDatabase.Controllers.ManufacturerController (CarDatabase).
+2025-02-02 11:28:37.478 +02:00 [INF] Executed action CarDatabase.Controllers.ManufacturerController.GetAll (CarDatabase) in 2.2182ms
+2025-02-02 11:28:37.480 +02:00 [INF] Executed endpoint 'CarDatabase.Controllers.ManufacturerController.GetAll (CarDatabase)'
+2025-02-02 11:28:37.481 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'CarDatabase.BL.IManufacturerService' while attempting to activate 'CarDatabase.Controllers.ManufacturerController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ThrowHelperUnableToResolveService(Type type, Type requiredBy)
+   at lambda_method9(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-02-02 11:28:37.508 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/api/Manufacturer - 500 null text/plain; charset=utf-8 54.9015ms
+2025-02-02 11:28:44.611 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/api/Manufacturer - null null
+2025-02-02 11:28:44.614 +02:00 [INF] Executing endpoint 'CarDatabase.Controllers.ManufacturerController.GetAll (CarDatabase)'
+2025-02-02 11:28:44.615 +02:00 [INF] Route matched with {action = "GetAll", controller = "Manufacturer"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CarDatabase.Models.Manufacturer]]] GetAll() on controller CarDatabase.Controllers.ManufacturerController (CarDatabase).
+2025-02-02 11:28:44.616 +02:00 [INF] Executed action CarDatabase.Controllers.ManufacturerController.GetAll (CarDatabase) in 0.3952ms
+2025-02-02 11:28:44.617 +02:00 [INF] Executed endpoint 'CarDatabase.Controllers.ManufacturerController.GetAll (CarDatabase)'
+2025-02-02 11:28:44.618 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'CarDatabase.BL.IManufacturerService' while attempting to activate 'CarDatabase.Controllers.ManufacturerController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ThrowHelperUnableToResolveService(Type type, Type requiredBy)
+   at lambda_method9(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-02-02 11:28:44.620 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/api/Manufacturer - 500 null text/plain; charset=utf-8 9.7491ms
+2025-02-02 11:28:54.110 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/api/Car - null null
+2025-02-02 11:28:54.112 +02:00 [INF] Executing endpoint 'CarDatabase.API.Controllers.CarController.GetAll (CarDatabase)'
+2025-02-02 11:28:54.115 +02:00 [INF] Route matched with {action = "GetAll", controller = "Car"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CarDatabase.Models.Car]]] GetAll() on controller CarDatabase.API.Controllers.CarController (CarDatabase).
+2025-02-02 11:28:54.453 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CarDatabase.Models.Car, CarDatabase.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-02 11:28:54.460 +02:00 [INF] Executed action CarDatabase.API.Controllers.CarController.GetAll (CarDatabase) in 343.6609ms
+2025-02-02 11:28:54.461 +02:00 [INF] Executed endpoint 'CarDatabase.API.Controllers.CarController.GetAll (CarDatabase)'
+2025-02-02 11:28:54.462 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/api/Car - 200 null application/json; charset=utf-8 351.7113ms
+2025-02-02 11:29:19.894 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/api/Manufacturer - null null
+2025-02-02 11:29:19.896 +02:00 [INF] Executing endpoint 'CarDatabase.Controllers.ManufacturerController.GetAll (CarDatabase)'
+2025-02-02 11:29:19.896 +02:00 [INF] Route matched with {action = "GetAll", controller = "Manufacturer"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CarDatabase.Models.Manufacturer]]] GetAll() on controller CarDatabase.Controllers.ManufacturerController (CarDatabase).
+2025-02-02 11:29:19.898 +02:00 [INF] Executed action CarDatabase.Controllers.ManufacturerController.GetAll (CarDatabase) in 0.3671ms
+2025-02-02 11:29:19.898 +02:00 [INF] Executed endpoint 'CarDatabase.Controllers.ManufacturerController.GetAll (CarDatabase)'
+2025-02-02 11:29:19.899 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'CarDatabase.BL.IManufacturerService' while attempting to activate 'CarDatabase.Controllers.ManufacturerController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ThrowHelperUnableToResolveService(Type type, Type requiredBy)
+   at lambda_method9(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-02-02 11:29:19.902 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/api/Manufacturer - 500 null text/plain; charset=utf-8 8.2283ms
+2025-02-02 11:30:55.833 +02:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-02 11:30:55.883 +02:00 [INF] Now listening on: https://localhost:7070
+2025-02-02 11:30:55.885 +02:00 [INF] Now listening on: http://localhost:5265
+2025-02-02 11:30:55.986 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-02 11:30:55.987 +02:00 [INF] Hosting environment: Development
+2025-02-02 11:30:55.988 +02:00 [INF] Content root path: C:\Users\gamin\source\repos\CarDatabase\CarDatabase
+2025-02-02 11:30:56.910 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/index.html - null null
+2025-02-02 11:30:57.020 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/index.html - 200 null text/html;charset=utf-8 116.0969ms
+2025-02-02 11:30:57.038 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-02 11:30:57.040 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_vs/browserLink - null null
+2025-02-02 11:30:57.044 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - 200 13774 application/javascript; charset=utf-8 5.9409ms
+2025-02-02 11:30:57.067 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_vs/browserLink - 200 null text/javascript; charset=UTF-8 27.2307ms
+2025-02-02 11:30:57.124 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - null null
+2025-02-02 11:30:57.141 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 17.6327ms
+2025-02-02 11:31:01.765 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/api/Manufacturer - null null
+2025-02-02 11:31:01.770 +02:00 [INF] Executing endpoint 'CarDatabase.Controllers.ManufacturerController.GetAll (CarDatabase)'
+2025-02-02 11:31:01.786 +02:00 [INF] Route matched with {action = "GetAll", controller = "Manufacturer"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CarDatabase.Models.Manufacturer]]] GetAll() on controller CarDatabase.Controllers.ManufacturerController (CarDatabase).
+2025-02-02 11:31:02.121 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CarDatabase.Models.Manufacturer, CarDatabase.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-02 11:31:02.127 +02:00 [INF] Executed action CarDatabase.Controllers.ManufacturerController.GetAll (CarDatabase) in 338.8637ms
+2025-02-02 11:31:02.128 +02:00 [INF] Executed endpoint 'CarDatabase.Controllers.ManufacturerController.GetAll (CarDatabase)'
+2025-02-02 11:31:02.129 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/api/Manufacturer - 200 null application/json; charset=utf-8 364.7142ms
+2025-02-02 11:32:05.482 +02:00 [INF] Request starting HTTP/2 POST https://localhost:7070/api/Manufacturer - application/json 78
+2025-02-02 11:32:05.484 +02:00 [INF] Executing endpoint 'CarDatabase.Controllers.ManufacturerController.Create (CarDatabase)'
+2025-02-02 11:32:05.490 +02:00 [INF] Route matched with {action = "Create", controller = "Manufacturer"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Create(CarDatabase.Models.Manufacturer) on controller CarDatabase.Controllers.ManufacturerController (CarDatabase).
+2025-02-02 11:32:05.626 +02:00 [INF] Executing CreatedAtActionResult, writing value of type 'CarDatabase.Models.Manufacturer'.
+2025-02-02 11:32:05.638 +02:00 [INF] Executed action CarDatabase.Controllers.ManufacturerController.Create (CarDatabase) in 147.1354ms
+2025-02-02 11:32:05.641 +02:00 [INF] Executed endpoint 'CarDatabase.Controllers.ManufacturerController.Create (CarDatabase)'
+2025-02-02 11:32:05.643 +02:00 [INF] Request finished HTTP/2 POST https://localhost:7070/api/Manufacturer - 201 null application/json; charset=utf-8 160.8086ms
+2025-02-02 11:32:34.933 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/api/Manufacturer - null null
+2025-02-02 11:32:34.935 +02:00 [INF] Executing endpoint 'CarDatabase.Controllers.ManufacturerController.GetAll (CarDatabase)'
+2025-02-02 11:32:34.936 +02:00 [INF] Route matched with {action = "GetAll", controller = "Manufacturer"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CarDatabase.Models.Manufacturer]]] GetAll() on controller CarDatabase.Controllers.ManufacturerController (CarDatabase).
+2025-02-02 11:32:34.977 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CarDatabase.Models.Manufacturer, CarDatabase.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-02 11:32:34.978 +02:00 [INF] Executed action CarDatabase.Controllers.ManufacturerController.GetAll (CarDatabase) in 40.7588ms
+2025-02-02 11:32:34.979 +02:00 [INF] Executed endpoint 'CarDatabase.Controllers.ManufacturerController.GetAll (CarDatabase)'
+2025-02-02 11:32:34.980 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/api/Manufacturer - 200 null application/json; charset=utf-8 46.4882ms
+2025-02-02 11:32:43.742 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/api/Manufacturer/3 - null null
+2025-02-02 11:32:43.744 +02:00 [INF] Executing endpoint 'CarDatabase.Controllers.ManufacturerController.GetById (CarDatabase)'
+2025-02-02 11:32:43.747 +02:00 [INF] Route matched with {action = "GetById", controller = "Manufacturer"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[CarDatabase.Models.Manufacturer]] GetById(System.String) on controller CarDatabase.Controllers.ManufacturerController (CarDatabase).
+2025-02-02 11:32:43.809 +02:00 [INF] Executing OkObjectResult, writing value of type 'CarDatabase.Models.Manufacturer'.
+2025-02-02 11:32:43.810 +02:00 [INF] Executed action CarDatabase.Controllers.ManufacturerController.GetById (CarDatabase) in 62.2885ms
+2025-02-02 11:32:43.811 +02:00 [INF] Executed endpoint 'CarDatabase.Controllers.ManufacturerController.GetById (CarDatabase)'
+2025-02-02 11:32:43.811 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/api/Manufacturer/3 - 200 null application/json; charset=utf-8 69.7897ms
+2025-02-02 11:32:46.689 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/api/Manufacturer/2 - null null
+2025-02-02 11:32:46.691 +02:00 [INF] Executing endpoint 'CarDatabase.Controllers.ManufacturerController.GetById (CarDatabase)'
+2025-02-02 11:32:46.691 +02:00 [INF] Route matched with {action = "GetById", controller = "Manufacturer"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[CarDatabase.Models.Manufacturer]] GetById(System.String) on controller CarDatabase.Controllers.ManufacturerController (CarDatabase).
+2025-02-02 11:32:46.729 +02:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2025-02-02 11:32:46.740 +02:00 [INF] Executed action CarDatabase.Controllers.ManufacturerController.GetById (CarDatabase) in 47.7033ms
+2025-02-02 11:32:46.741 +02:00 [INF] Executed endpoint 'CarDatabase.Controllers.ManufacturerController.GetById (CarDatabase)'
+2025-02-02 11:32:46.741 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/api/Manufacturer/2 - 404 null application/problem+json; charset=utf-8 52.9885ms
+2025-02-02 11:38:38.895 +02:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-02-02 11:38:38.955 +02:00 [INF] Now listening on: https://localhost:7070
+2025-02-02 11:38:38.957 +02:00 [INF] Now listening on: http://localhost:5265
+2025-02-02 11:38:39.028 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-02 11:38:39.030 +02:00 [INF] Hosting environment: Development
+2025-02-02 11:38:39.031 +02:00 [INF] Content root path: C:\Users\gamin\source\repos\CarDatabase\CarDatabase
+2025-02-02 11:38:39.611 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/index.html - null null
+2025-02-02 11:38:39.756 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/index.html - 200 null text/html;charset=utf-8 152.6807ms
+2025-02-02 11:38:39.780 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-02 11:38:39.780 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/_vs/browserLink - null null
+2025-02-02 11:38:39.780 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/swagger-ui.css - null null
+2025-02-02 11:38:39.787 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_framework/aspnetcore-browser-refresh.js - 200 13774 application/javascript; charset=utf-8 7.4046ms
+2025-02-02 11:38:39.805 +02:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-02-02 11:38:39.806 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/swagger-ui.css - 499 152034 text/css 25.8784ms
+2025-02-02 11:38:39.880 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/_vs/browserLink - 200 null text/javascript; charset=UTF-8 100.5519ms
+2025-02-02 11:38:39.883 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/favicon-16x16.png - null null
+2025-02-02 11:38:39.886 +02:00 [INF] Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+2025-02-02 11:38:39.887 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/favicon-16x16.png - 499 665 image/png 3.7655ms
+2025-02-02 11:38:39.918 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - null null
+2025-02-02 11:38:39.930 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 12.1208ms
+2025-02-02 11:38:46.004 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7070/health - null null
+2025-02-02 11:38:46.011 +02:00 [INF] Executing endpoint 'Health checks'
+2025-02-02 11:38:46.323 +02:00 [INF] Executed endpoint 'Health checks'
+2025-02-02 11:38:46.324 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7070/health - 200 null text/plain 319.6762ms
